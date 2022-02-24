@@ -1,0 +1,11 @@
+{
+  "name": "course-advizor",
+  "version": "1.0.0",
+  "description": "This is a system built with a text-to-speech system and an Interavctive voice response ()\u001b[DIVR).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lovelyn",
+  "license": "ISC"
+}
